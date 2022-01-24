@@ -1,2 +1,2 @@
 # fullcycle-git-challenge
-Git challenge about signing commits.
+FullCycle's Git challenge about signing commits.
